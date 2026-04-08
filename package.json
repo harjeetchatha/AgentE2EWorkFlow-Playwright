@@ -1,0 +1,26 @@
+{
+  "name": "agente2eqaworkflow-playwright",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "directories": {
+    "test": "tests"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ravikaanthe/AgentE2EQAWorkflow-Playwright.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ravikaanthe/AgentE2EQAWorkflow-Playwright/issues"
+  },
+  "homepage": "https://github.com/ravikaanthe/AgentE2EQAWorkflow-Playwright#readme",
+  "devDependencies": {
+    "@playwright/test": "^1.58.2"
+  }
+}
