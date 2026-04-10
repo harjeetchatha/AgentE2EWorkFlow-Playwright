@@ -21,6 +21,9 @@
   },
   "homepage": "https://github.com/ravikaanthe/AgentE2EQAWorkflow-Playwright#readme",
   "devDependencies": {
-    "@playwright/test": "^1.58.2"
+    "@playwright/test": "^1.58.2",
+    "@types/node": "^25.5.2",
+    "ts-node": "^10.9.2",
+    "typescript": "^6.0.2"
   }
 }
